@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Login page
   
-  <img src="veloretti-login.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/veloretti-login.png" width="375px" alt="login pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Ace two 
-  <img src="readme-images/veloretti-ace-two.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/veloretti-ace-two.png" width="375px" alt="ace two pagina">
  
 </details>
 
