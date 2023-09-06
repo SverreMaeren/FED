@@ -58,10 +58,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
   Headings: 
   - Hij leest de headings op sommige pagina's volledig voor inclusief de onderdelen van het hamburgermenu. 
   - Op andere pagina's leest hij alleen de namen van de headings zonder de onderdelen van het hamburgermenu.
   - De namen van de knoppen waren logisch
+
   Linkjes:
   - linkjes werden voorgelezen als je erop klikte.
   - Linkjes werden niet voorgelezen als je er met je muis op zat.
