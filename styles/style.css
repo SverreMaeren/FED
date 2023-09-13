@@ -1,31 +1,33 @@
-/**************/
-/* CSS REMEDY */
-/**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+h1 {
+    color:aqua;
 }
 
-
-
-
-
-
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+nav {
+    display: block;
 }
 
+nav ul {
+    list-style:none;
+    display:flex;
+    overflow: hidden;
+    width: 100%;
+    margin-top: 0;
+    color:black;
+    padding-top: 1em;
+    padding-left: 15em;
+}
 
+li {
+    padding-right: 3em;
 
+}
 
+ul :nth-child(7) {
+    padding-left: 40em;
+}
 
-/****************/
-/* JOUW STYLING */
-/****************/
-
-/* jouw code */
-
+nav a {
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+}
