@@ -7,6 +7,6 @@ function hamburgerMenuButtonKlik() {
         hamburgerMenuButton.ariaExpanded = "true"
     }
     else {
-        eersteImagesButton.ariaExpanded = "false"
+        hamburgerMenuButton.ariaExpanded = "false"
     }
 }

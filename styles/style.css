@@ -222,6 +222,7 @@ nav {
     background-color: white;
     padding-bottom: .2em;
     padding-top: .2em;
+    z-index: 2;
 }
 
 nav a {
