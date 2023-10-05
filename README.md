@@ -83,11 +83,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
+| Bente      | Jamie          | Maeren    | Sanne        | tim |
 | ---            | ---                | ---          | ---              |
-| vragen over toegankelijkheid en formaat van foto's  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+| vragen over toegankelijkheid  | laten kijken naar HTML             | laten kijken naar html    | paar vraagjes over html    | vragen over html en css|
+| en formaat van foto's | nog een ander vraagje | buttons in een ul andere stijl maken |  |vragen over de opbouw van html en css |
+| ...            | ...                | ...          | ...              | |
 
 
 ### Verslag van meeting
