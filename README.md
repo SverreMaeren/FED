@@ -239,6 +239,17 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 5. https://codepen.io/shooft/pen/LYMEWVm
 6. https://www.youtube.com/
 7. https://flexboxfroggy.com/#nl
-8. 
+8. https://stackoverflow.com/questions/69794168/why-does-my-hamburger-menu-didnt-work-on-other-page
+9. https://stackoverflow.com/questions/31402576/enable-focus-only-on-keyboard-use-or-tab-press
+10. https://stackoverflow.com/questions/6518218/html-5-section-aside-margin-problem
+11. https://imagecolorpicker.com/
+12. https://www.ilikesticker.com/LineStickerAnimation/W3927035-Cat-Laser-Beam/en
+13. https://stackoverflow.com/questions/37183114/how-to-style-text-of-submit-button
+14. https://stackoverflow.com/questions/885691/how-to-make-a-ul-display-in-a-horizontal-row
+15. https://stackoverflow.com/questions/44146881/my-width-is-bigger-than-my-screen-but-body-and-html-are-set-to-0-padding-and-ma
+16. https://stackoverflow.com/questions/48474/how-do-i-position-one-image-on-top-of-another-in-html
+17. https://cubic-bezier.com/#.32,-0.34,.72,.81
+18. https://www.w3schools.com/html/html_forms.asp
+19. 
 
 </details>
