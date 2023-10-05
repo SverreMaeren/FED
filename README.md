@@ -92,10 +92,9 @@ Tim: vragen over html en css, vragen over de opbouw van html en css
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Mijn vragen zijn beantwoord en ik snap mijn code een stukje beter.
+- Ik kreeg te horen dat ik flink aan de bak moet, omdat ik nog niet zover ben.
+
 
 </details>
 
@@ -115,20 +114,18 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
+Bente: vragen over responsive, nav en uitklap menu, grid voor foto galerij
+Stella: vragen over hamburger menu<br>
+Maeren: vragen over hamburger menu en nog wat andere kleine dingetjes met code en of ik gedownload font op de site kan zetten<br>
+Tim: vragen over hamburger menu
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- Kleine foutjes zijn opgelost
+- hamburger menu moet nog gedaan worden
+- mijn website ziet er al prima uit
+
 
 </details>
 
@@ -144,28 +141,13 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 ### Bevindingen
 Lijst met je bevindingen die in de test naar voren kwamen:
 
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
+#### Ik was een heel eind
+Ik had nog een paar kleine dingetjes die aangepast moesten worden.
 
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
+Ik heb mijn html nog niet gevalideert, sommige focus states werken niet, ik moet nog eigen hover en focus states toevoegen en darkmode heb ik niet.
 
+Deze heb ik inmiddels opgelost. De validatie bracht een paar kleine foutjes naar voren. Focus states zijn gefixt. eigen hover en focus states zijn toegevoegd. Darkmode is na veel werk toegevoegd en werken op de hele html inclusief iconen.
 
-#### Titel tweede bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding. 
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
 
 </details>
 
@@ -185,20 +167,17 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+Bente: vragen over footer, responsive, javascript en nog paar kleine dinge op website.   
+Maeren: Ik heb een paar kleine vraagjes maar hier kom ik zelf wel uit.<br>
+Sanne: vraag over img in de h1<br>
+Tim: vragen over responsive en nog laatste check van mn hele website en de responsive state.
 
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
 
-- punt 1
-- punt 2
-- nog een punt
-- ...
+- NVT
+
 
 </details>
 
