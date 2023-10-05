@@ -83,12 +83,11 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 ### Agenda voor meeting
 samen met je groepje opstellen
 
-| Bente      | Jamie          | Maeren    | Sanne        | tim |
-| ---            | ---                | ---          | ---              |
-| vragen over toegankelijkheid  | laten kijken naar HTML             | laten kijken naar html    | paar vraagjes over html    | vragen over html en css|
-| en formaat van foto's | nog een ander vraagje | buttons in een ul andere stijl maken |  |vragen over de opbouw van html en css |
-| ...            | ...                | ...          | ...              | |
-
+Bente: vragen over toegankelijkheid, en formaat van foto's   
+Jamie: laten kijken naar HTML, nog een ander vraagje
+Maeren: laten kijken naar html, buttons in een ul andere stijl maken
+Sanne: paar vraagjes over html
+Tim: vragen over html en css, vragen over de opbouw van html en css
 
 ### Verslag van meeting
 hier na afloop snel de uitkomsten van de meeting vastleggen
