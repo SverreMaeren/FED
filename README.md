@@ -84,9 +84,9 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 samen met je groepje opstellen
 
 Bente: vragen over toegankelijkheid, en formaat van foto's   
-Jamie: laten kijken naar HTML, nog een ander vraagje
-Maeren: laten kijken naar html, buttons in een ul andere stijl maken
-Sanne: paar vraagjes over html
+Jamie: laten kijken naar HTML, nog een ander vraagje<br>
+Maeren: laten kijken naar html, buttons in een ul andere stijl maken<br>
+Sanne: paar vraagjes over html<br>
 Tim: vragen over html en css, vragen over de opbouw van html en css
 
 ### Verslag van meeting
