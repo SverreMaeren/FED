@@ -217,7 +217,10 @@ hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je we
 
 ### Screenshot(s)
 
-hier screenshot(s) van je eindresultaat
+<img src="readme-images/index.png" width="375px" alt="index">
+<img src="readme-images/index-darkmode.png" width="375px" alt="index darkmode">
+<img src="readme-images/login-2.png" width="375px" alt="login">
+<img src="readme-images/login-darkmode.png" width="375px" alt="login darkmode">
 
 </details>
 
