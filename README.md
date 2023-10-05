@@ -77,7 +77,7 @@ Login/sign up
 <summary>uitwerken voor 1e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik was nog niet zo lang begonnen maar liep al snel tegen een aantal foutjes. Ik had al lang niet meer gecodeert en ik was roestig. Ik moest voor de simpelste dingen google gebruiken.
 
 
 ### Agenda voor meeting
@@ -108,7 +108,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Het ging hier al een stuk beter. Ik was een stuk verder met de website ik kon de simpele code snel typen zonder na te denken maar heb nog moeite met het selecteren van elementen vanuit de html in de css. Ook het positioneren in de css vind ik nog lastig.
 
 
 ### Agenda voor meeting
@@ -161,7 +161,7 @@ Deze heb ik inmiddels opgelost. De validatie bracht een paar kleine foutjes naar
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik begreep het selecteren al een stuk beter. Af en toe typte ik iets zoals "main button ul:nth-of-type(2) img" in een keer goed. Ik was dan ook erg blij hiermee en werd zelfs enthousiast van het coderen. Het positioneren van elementen op de juiste manier bleef last maar het ginge stukken beter dan de week der voor. Op dit punt liep ik niet meer vast op kleine foutjes. Als ik ergens op vastliep en de oplossing ervan opzocht las ik vreemde termen waar ik nog nooit van had gehoord. 
 
 
 ### Agenda voor meeting
@@ -191,7 +191,7 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor eindgesprek</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Ik ben erg tevreden met mijn website. Ik had nooit verwacht dat ik zoiets als dit heb kunnen maken. Ik merk dat ik het beter begin te begrijpen en daarom ook leuker begin te vinden. Ik begrijp nu dat als je deze taal beheerst dat er echt lol in zit. Op een aantal vragen heb ik nog steeds geen antwoord. Ook heb ik geleerd dat chatgpt een enorm goede hulp is. Misschien wel een van de beste tools om te leren coderen. Door een specifieke vraag te stellen geeft hij antwoord hierop inclusief uitleg. Dit werkt als geen andere website.
 
 ### Screenshot(s)
 
