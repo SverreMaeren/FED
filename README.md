@@ -232,8 +232,13 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. https://chat.openai.com/
+2. https://stackoverflow.com/
+3. https://www.google.nl/
+4. https://www.w3schools.com/
+5. https://codepen.io/shooft/pen/LYMEWVm
+6. https://www.youtube.com/
+7. https://flexboxfroggy.com/#nl
+8. 
 
 </details>
