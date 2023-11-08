@@ -49,19 +49,7 @@ Login/sign up
 </details>
 
 
-## Toegankelijkheidstest 1/2 (week 1)
 
-<details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
-  ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
-  - De website heeft behoorlijk veel errors volgens de console log
-  - Als je op verschillende elementen klikt neemt de hoeveelheid van deze errors toe
-  - Ook voldoet de site niet volledig aan de WCAG checklist
-  - Zo is de viewport zoom bijvoorbeeld niet gedisabled
-
-</details>
 
 ## Breakdownschets (week 1)
 
