@@ -231,6 +231,5 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 16. https://stackoverflow.com/questions/48474/how-do-i-position-one-image-on-top-of-another-in-html
 17. https://cubic-bezier.com/#.32,-0.34,.72,.81
 18. https://www.w3schools.com/html/html_forms.asp
-19. 
 
 </details>

@@ -26,20 +26,18 @@ console.log("click");
 
 
 
-var laserKatButton = document.querySelector("main > button:nth-of-type(3)")
+var laserKatButton = document.querySelector("main > button:nth-of-type(3)");
+var laserKat = document.querySelector("main > img:nth-of-type(3)");
 
 laserKatButton.onclick = laserKatButtonKlik;
 
-var laserKatButtonVisible = false;
-
 function laserKatButtonKlik() {
-    var image = document.querySelector("main > img:nth-of-type(3)");
 
-    if (laserKatButtonVisible) {
-        image.style.display = "none";
+    if (laserKat.ariaExpanded == "true") {
+        laserKat.ariaExpanded = "false"
     }
     else {
-        image.style.display = "block";
-    }   
-    laserKatButtonVisible = !laserKatButtonVisible;
+        laserKat.ariaExpanded = "true"
+    }
+    console.log("click");
 }

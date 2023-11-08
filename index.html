@@ -88,7 +88,7 @@
 		</ul>
 
 		<button>Nu personaliseren</button>
-		<img src="images/laserkat.gif" alt="laserkat">
+		<img src="images/laserkat.gif" alt="laserkat" aria-label="laserkat" aria-expanded="false" aria-hidden="true">
 		
 		<p>Betaal in 3 delen met<img src="images/klarna-logo.svg" alt="klarna"></p>
 		<p>De Ace Two is de nieuwste revolutie op het gebied van elektrisch fietsen, en het model heeft een overstapframe. De fiets combineert een strak design, innovatieve technologie en efficiënte veiligheidsfeatures.</p>
@@ -133,12 +133,18 @@
 
 		<p>Van Woustraat 72, Amsterdam</p>
 
-		<form>
-			<p>Schrijf je in voor onze nieuwsbrief.</p>
-			<input type="text" value="Vul hier uw e-mailadres in">
+		<form id="nieuwsbrief-form">
+			<fieldset>
+			<legend>Schrijf je in voor onze nieuwsbrief.</legend>
+
+			<label for="nieuwsbrief-email">E-mail</label>
+			<input type="email" id="nieuwsbrief-email" placeholder="Vul hier uw e-mailadres in">
+			
 			<input type="submit" value="abonneren">
-			<input type="checkbox">
-			<p>Door mij aan te melden ga ik akkoord met het privacybeleid van Veloretti.</p>
+
+			<label for="privacybeleid">Door mij aan te melden ga ik akkoord met het privacybeleid van Veloretti.</label>
+			<input type="checkbox" id="privacybeleid">
+			</fieldset>
 		</form>
 
 		<ul>
